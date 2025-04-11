@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { isMobileScreen } from "../../utils/Helper";
-
+ // policy page
 const Policy = ({ head }) => {
   // const siteSettingsData = useSelector(
   //   (state) => state?.siteSettingReducerData?.siteSettings?.settings
